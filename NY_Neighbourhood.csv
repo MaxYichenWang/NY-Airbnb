@@ -1,0 +1,222 @@
+,neighbourhood,neighbourhood_group,Latitude,Longitude
+0,Allerton,Bronx,40.8631189,-73.8616476
+1,Arden Heights,Staten Island,40.556413,-74.1735044
+2,Arrochar,Staten Island,40.5967312,-74.0704232
+3,Arverne,Queens,40.592658,-73.7977928
+4,Astoria,Queens,40.7643574,-73.92346189999999
+5,Bath Beach,Brooklyn,40.6038852,-74.0062078
+6,Battery Park City,Manhattan,40.7115786,-74.0158441
+7,Bay Ridge,Brooklyn,40.6263732,-74.0298767
+8,Bay Terrace,Queens,40.7814336,-73.7782051
+9,"Bay Terrace, Staten Island",Staten Island,40.5552778,-74.13416670000001
+10,Baychester,Bronx,40.8693862,-73.83308439999999
+11,Bayside,Queens,40.7585569,-73.7654367
+12,Bayswater,Queens,40.6067815,-73.7669075
+13,Bedford-Stuyvesant,Brooklyn,40.6872176,-73.9417735
+14,Belle Harbor,Queens,40.5754846,-73.8507279
+15,Bellerose,Queens,40.7361769,-73.7137365
+16,Belmont,Bronx,40.8534507,-73.88936819999999
+17,Bensonhurst,Brooklyn,40.6139307,-73.9921833
+18,Bergen Beach,Brooklyn,40.6203822,-73.90680329999999
+19,Boerum Hill,Brooklyn,40.6848689,-73.9844722
+20,Borough Park,Brooklyn,40.6350319,-73.9921028
+21,Breezy Point,Queens,40.5608702,-73.9155359
+22,Briarwood,Queens,40.7109315,-73.81356099999999
+23,Brighton Beach,Brooklyn,40.5780706,-73.9596565
+24,Bronxdale,Bronx,40.8506558,-73.86652409999999
+25,Brooklyn Heights,Brooklyn,40.6959294,-73.9955523
+26,Brownsville,Brooklyn,40.665214,-73.9125304
+27,Bull's Head,Staten Island,40.6070483,-74.1620879
+28,Bushwick,Brooklyn,40.6957755,-73.9170604
+29,Cambria Heights,Queens,40.692158,-73.7330753
+30,Canarsie,Brooklyn,40.6402325,-73.9060579
+31,Carroll Gardens,Brooklyn,40.6795331,-73.9991637
+32,Castle Hill,Bronx,40.8176831,-73.8507279
+33,Castleton Corners,Staten Island,40.6130802,-74.1225608
+34,Chelsea,Manhattan,40.7465004,-74.00137370000002
+35,Chinatown,Manhattan,40.7157509,-73.9970307
+36,City Island,Bronx,40.8468202,-73.7874983
+37,Civic Center,Manhattan,40.7140519,-74.00283639999999
+38,Claremont Village,Bronx,40.8348136,-73.9058534
+39,Clason Point,Bronx,40.8159508,-73.85640479999999
+40,Clifton,Staten Island,40.6189726,-74.0784785
+41,Clinton Hill,Brooklyn,40.6896834,-73.9661144
+42,Co-op City,Bronx,40.8738889,-73.82944440000001
+43,Cobble Hill,Brooklyn,40.686536,-73.9962255
+44,College Point,Queens,40.786395,-73.8389657
+45,Columbia St,Brooklyn,40.6775239,-74.00634409999999
+46,Concord,Staten Island,40.6081598,-74.0843081
+47,Concourse,Bronx,40.8316761,-73.9227554
+48,Concourse Village,Bronx,40.8255863,-73.9184388
+49,Coney Island,Brooklyn,40.5755438,-73.9707016
+50,Corona,Queens,40.7449859,-73.8642613
+51,Crown Heights,Brooklyn,40.6694022,-73.9422324
+52,Cypress Hills,Brooklyn,40.6836873,-73.87963309999999
+53,DUMBO,Brooklyn,40.7033164,-73.9881451
+54,Ditmars Steinway,Queens,40.7797125,-73.90631619999999
+55,Dongan Hills,Staten Island,40.5906641,-74.088452
+56,Douglaston,Queens,40.76401509999999,-73.7433727
+57,Downtown Brooklyn,Brooklyn,40.6960679,-73.9845407
+58,Dyker Heights,Brooklyn,40.6214932,-74.00958399999999
+59,East Elmhurst,Queens,40.7737505,-73.8713099
+60,East Flatbush,Brooklyn,40.6481656,-73.9299899
+61,East Harlem,Manhattan,40.7957399,-73.93892129999999
+62,East Morrisania,Bronx,40.8365344,-73.8933509
+63,East New York,Brooklyn,40.6590529,-73.8759245
+64,East Village,Manhattan,40.7264773,-73.98153370000001
+65,Eastchester,Bronx,40.8859837,-73.82794710000002
+66,Edenwald,Bronx,40.8863969,-73.84119869999999
+67,Edgemere,Queens,40.5942276,-73.7742616
+68,Elmhurst,Queens,40.737975,-73.8801301
+69,Eltingville,Staten Island,40.5394463,-74.156292
+70,Emerson Hill,Staten Island,40.6074525,-74.0963115
+71,Far Rockaway,Queens,40.5998931,-73.74484369999999
+72,Fieldston,Bronx,40.8964814,-73.9023362
+73,Financial District,Manhattan,40.7077143,-74.00827869999999
+74,Flatbush,Brooklyn,40.6414876,-73.9593998
+75,Flatiron District,Manhattan,40.740083,-73.9903489
+76,Flatlands,Brooklyn,40.6232714,-73.9321664
+77,Flushing,Queens,40.7674987,-73.833079
+78,Fordham,Bronx,40.8592667,-73.8984694
+79,Forest Hills,Queens,40.718106,-73.8448469
+80,Fort Greene,Brooklyn,40.6920638,-73.97418739999999
+81,Fort Hamilton,Brooklyn,40.6094454,-74.02854339999999
+82,Fort Wadsworth,Staten Island,40.6012117,-74.0579185
+83,Fresh Meadows,Queens,40.7335179,-73.7801447
+84,Glendale,Queens,40.7016662,-73.8842219
+85,Gowanus,Brooklyn,40.6751161,-73.9879753
+86,Gramercy,Manhattan,40.7367783,-73.9844722
+87,Graniteville,Staten Island,40.6183926,-74.15528119999999
+88,Grant City,Staten Island,40.5820492,-74.1048641
+89,Gravesend,Brooklyn,40.5918636,-73.9768653
+90,Great Kills,Staten Island,40.5543273,-74.156292
+91,Greenpoint,Brooklyn,40.7304701,-73.95150319999999
+92,Greenwich Village,Manhattan,40.7335719,-74.0027418
+93,Grymes Hill,Staten Island,40.6187151,-74.09347509999999
+94,Harlem,Manhattan,40.8115504,-73.9464769
+95,Hell's Kitchen,Manhattan,40.7637581,-73.9918181
+96,Highbridge,Bronx,40.836916,-73.9271294
+97,Hollis,Queens,40.7112203,-73.762495
+98,Holliswood,Queens,40.7112203,-73.762495
+99,Howard Beach,Queens,40.6571222,-73.8429989
+100,Howland Hook,Staten Island,40.6439921,-74.1823664
+101,Huguenot,Staten Island,40.5373275,-74.1945884
+102,Hunts Point,Bronx,40.8094385,-73.8803315
+103,Inwood,Manhattan,40.8677145,-73.9212019
+104,Jackson Heights,Queens,40.7556818,-73.8830701
+105,Jamaica,Queens,40.702677,-73.7889689
+106,Jamaica Estates,Queens,40.7179512,-73.783822
+107,Jamaica Hills,Queens,40.7135548,-73.796488
+108,Kensington,Brooklyn,40.63852019999999,-73.97318729999999
+109,Kew Gardens,Queens,40.705695,-73.8272029
+110,Kew Gardens Hills,Queens,40.73844709999999,-73.8104048
+111,Kingsbridge,Bronx,40.8833912,-73.9051185
+112,Kips Bay,Manhattan,40.74232920000001,-73.9800645
+113,Laurelton,Queens,40.67764,-73.7447853
+114,Lighthouse Hill,Staten Island,40.5772702,-74.1342726
+115,Little Italy,Manhattan,40.7191413,-73.9973273
+116,Little Neck,Queens,40.7612957,-73.7330753
+117,Long Island City,Queens,40.744679,-73.9485424
+118,Longwood,Bronx,40.8248438,-73.8915875
+119,Lower East Side,Manhattan,40.715033,-73.9842724
+120,Manhattan Beach,Brooklyn,40.57815799999999,-73.93892129999999
+121,Marble Hill,Manhattan,40.8761173,-73.9102628
+122,Mariners Harbor,Staten Island,40.63677010000001,-74.1587547
+123,Maspeth,Queens,40.7294018,-73.9065883
+124,Melrose,Bronx,40.824545,-73.9104143
+125,Middle Village,Queens,40.717372,-73.87425
+126,Midland Beach,Staten Island,40.57149,-74.0931627
+127,Midtown,Manhattan,40.7549309,-73.9840195
+128,Midwood,Brooklyn,40.6204388,-73.95997779999999
+129,Mill Basin,Brooklyn,40.6096768,-73.9114293
+130,Morningside Heights,Manhattan,40.8105443,-73.9620581
+131,Morris Heights,Bronx,40.8505298,-73.91554289999999
+132,Morris Park,Bronx,40.850332,-73.8513735
+133,Morrisania,Bronx,40.8310814,-73.9058574
+134,Mott Haven,Bronx,40.8091068,-73.9228881
+135,Mount Eden,Bronx,40.8407018,-73.9168766
+136,Mount Hope,Bronx,40.8488863,-73.9051185
+137,Murray Hill,Manhattan,40.7478792,-73.9756567
+138,Navy Yard,Brooklyn,40.6991765,-73.97158379999999
+139,Neponsit,Queens,40.5707646,-73.8610191
+140,New Brighton,Staten Island,40.6404369,-74.090226
+141,New Dorp,Staten Island,40.5739937,-74.1159755
+142,New Dorp Beach,Staten Island,40.5657068,-74.1049093
+143,New Springville,Staten Island,40.5847957,-74.16034840000002
+144,NoHo,Manhattan,40.7286587,-73.9925526
+145,Nolita,Manhattan,40.7230413,-73.99486069999999
+146,North Riverdale,Bronx,40.9090464,-73.90364869999999
+147,Norwood,Bronx,40.8810341,-73.878486
+148,Oakwood,Staten Island,40.563994,-74.1159754
+149,Olinville,Bronx,40.8803912,-73.8668996
+150,Ozone Park,Queens,40.6794072,-73.8507279
+151,Park Slope,Brooklyn,40.6710672,-73.98142279999999
+152,Parkchester,Bronx,40.8382522,-73.8566087
+153,Pelham Bay,Bronx,40.8505556,-73.83333329999999
+154,Pelham Gardens,Bronx,40.8627726,-73.84343919999999
+155,Port Morris,Bronx,40.8022025,-73.9166051
+156,Port Richmond,Staten Island,40.63549140000001,-74.1254641
+157,Prince's Bay,Staten Island,40.52899439999999,-74.197644
+158,Prospect Heights,Brooklyn,40.6774196,-73.9668408
+159,Prospect-Lefferts Gardens,Brooklyn,40.6592355,-73.9533895
+160,Queens Village,Queens,40.7156628,-73.7419017
+161,Randall Manor,Staten Island,40.6410598,-74.103441
+162,Red Hook,Brooklyn,40.6733676,-74.00831889999999
+163,Rego Park,Queens,40.72557219999999,-73.8624893
+164,Richmond Hill,Queens,40.6958108,-73.8272029
+165,Richmondtown,Staten Island,40.5673546,-74.1342726
+166,Ridgewood,Queens,40.7043986,-73.9018292
+167,Riverdale,Bronx,40.89961830000001,-73.9088276
+168,Rockaway Beach,Queens,40.5860224,-73.81662589999999
+169,Roosevelt Island,Manhattan,40.76050310000001,-73.9509934
+170,Rosebank,Staten Island,40.6139932,-74.0662521
+171,Rosedale,Queens,40.6584068,-73.7389596
+172,Rossville,Staten Island,40.5456634,-74.21634279999999
+173,Schuylerville,Bronx,40.83665389999999,-73.83378909999999
+174,Sea Gate,Brooklyn,40.5768098,-74.0079781
+175,Sheepshead Bay,Brooklyn,40.5953955,-73.94575379999999
+176,Shore Acres,Staten Island,40.6084816,-74.0684795
+177,Silver Lake,Staten Island,40.6245495,-74.0916944
+178,SoHo,Manhattan,40.723301,-74.0029883
+179,Soundview,Bronx,40.8247728,-73.8695889
+180,South Beach,Staten Island,40.5903824,-74.06680759999999
+181,South Ozone Park,Queens,40.6764003,-73.8124984
+182,South Slope,Brooklyn,40.6605508,-73.9874105
+183,Springfield Gardens,Queens,40.6715916,-73.779798
+184,Spuyten Duyvil,Bronx,40.88116369999999,-73.9154069
+185,St. Albans,Queens,40.6895283,-73.76436880000001
+186,St. George,Staten Island,40.6427017,-74.0799469
+187,Stapleton,Staten Island,40.6264929,-74.07764139999999
+188,Stuyvesant Town,Manhattan,40.7316903,-73.9778494
+189,Sunnyside,Queens,40.7432759,-73.9196324
+190,Sunset Park,Brooklyn,40.65272,-74.00933479999999
+191,Theater District,Manhattan,40.759011,-73.9844722
+192,Throgs Neck,Bronx,40.818399,-73.8213213
+193,Todt Hill,Staten Island,40.5975007,-74.10189749999999
+194,Tompkinsville,Staten Island,40.63259559999999,-74.0872892
+195,Tottenville,Staten Island,40.5083408,-74.23554039999999
+196,Tremont,Bronx,40.8477113,-73.90096729999999
+197,Tribeca,Manhattan,40.7162692,-74.0086323
+198,Two Bridges,Manhattan,40.7107469,-73.99696
+199,Unionport,Bronx,40.83034079999999,-73.8506737
+200,University Heights,Bronx,40.8574661,-73.90965
+201,Upper East Side,Manhattan,40.7735649,-73.9565551
+202,Upper West Side,Manhattan,40.7870106,-73.9753676
+203,Van Nest,Bronx,40.8415796,-73.8706949
+204,Vinegar Hill,Brooklyn,40.70371859999999,-73.98226830000002
+205,Wakefield,Bronx,40.89655,-73.8507279
+206,Washington Heights,Manhattan,40.8417082,-73.9393554
+207,West Brighton,Staten Island,40.6270298,-74.10931409999999
+208,West Farms,Bronx,40.8430609,-73.8816001
+209,West Village,Manhattan,40.73468,-74.0047554
+210,Westchester Square,Bronx,40.839815,-73.8464802
+211,Westerleigh,Staten Island,40.621215,-74.1318094
+212,Whitestone,Queens,40.7920449,-73.8095574
+213,Williamsbridge,Bronx,40.8787602,-73.85283559999999
+214,Williamsburg,Brooklyn,40.7081156,-73.9570696
+215,Willowbrook,Staten Island,40.6031598,-74.13847620000001
+216,Windsor Terrace,Brooklyn,40.6539346,-73.9756567
+217,Woodhaven,Queens,40.6901366,-73.8566087
+218,Woodlawn,Bronx,40.8976347,-73.8668996
+219,Woodrow,Staten Island,40.5434385,-74.19764409999999
+220,Woodside,Queens,40.7532952,-73.9068973
